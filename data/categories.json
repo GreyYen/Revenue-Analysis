@@ -1,0 +1,58 @@
+{
+    "Category_A": {
+        "Q1": {
+            "year_factor": 1,
+            "calendar_quarter": 2
+        },
+        "Q2": {
+            "year_factor": 1,
+            "calendar_quarter": 3
+        },
+        "Q3": {
+            "year_factor": 1,
+            "calendar_quarter": 4
+        },
+        "Q4": {
+            "year_factor": 0,
+            "calendar_quarter": 1
+        }
+    },
+
+    "Category_B": {
+        "Q1": {
+            "year_factor": 0,
+            "calendar_quarter": 1
+        },
+        "Q2": {
+            "year_factor": 0,
+            "calendar_quarter": 2
+        },
+        "Q3": {
+            "year_factor": 0,
+            "calendar_quarter": 3
+        },
+        "Q4": {
+            "year_factor": 0,
+            "calendar_quarter": 4
+        }
+    },
+
+    "Category_C": {
+        "Q1": {
+            "year_factor": 1,
+            "calendar_quarter": 4
+        },
+        "Q2": {
+            "year_factor": 0,
+            "calendar_quarter": 1
+        },
+        "Q3": {
+            "year_factor": 0,
+            "calendar_quarter": 2
+        },
+        "Q4": {
+            "year_factor": 0,
+            "calendar_quarter": 3
+        }
+    }
+}
